@@ -1,0 +1,19 @@
+{
+  "name": "empty-dependencies",
+  "version": "1.0.0",
+  "description": "empty",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evergreen-test-environment/empty-dependencies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evergreen-test-environment/empty-dependencies/issues"
+  },
+  "homepage": "https://github.com/evergreen-test-environment/empty-dependencies#readme"
+}
